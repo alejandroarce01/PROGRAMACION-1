@@ -28,6 +28,7 @@ print(frutas)
 # elimiar un valor
 frutas.remove ("uva")
 frutas.pop(2)
+
 del frutas[0]
 
 
